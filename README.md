@@ -3,15 +3,15 @@
 This project demonstrates the creation of an interactive navigation menu that changes color or style when scrolled or when hovering over a menu item. The navigation menu has a fixed position and is visible on all pages.
 
  🖥️ Features:-
-🧠 Fixed position navigation menu
-🧠 Color/style change on scroll
-🧠 Color/style change on hover
-🧠 Responsive design
+🧠 Fixed position navigation menu <br>
+🧠 Color/style change on scroll <br>
+🧠 Color/style change on hover <br>
+🧠 Responsive design <br>
 
 # Technologies Used
-📖 HTML for structuring the menu
-📖 CSS for styling the menu
-📖 JavaScript for adding interactivity
+📖 HTML for structuring the menu <br>
+📖 CSS for styling the menu <br>
+📖 JavaScript for adding interactivity <br>
 
  # Setup Instructions
 🖥️Clone the repository:
